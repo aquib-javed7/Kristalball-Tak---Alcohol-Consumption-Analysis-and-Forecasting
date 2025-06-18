@@ -4,7 +4,7 @@ A complete data science project to analyze and forecast alcohol consumption tren
 
 ## 📁 Files Included
 
-- **`Consumption Dataset.csv`**  
+- **`Consumption Dataset.xlsx`**  
   Raw data file containing transactional alcohol consumption data including brand, type, time served, and balances.
 
 - **`Alcohol_Consumption_Forecasting_Extended.ipynb`**  
